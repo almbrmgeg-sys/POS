@@ -1,0 +1,46 @@
+[
+  {
+    "id": "1",
+    "name": "Elite POS Terminal X1",
+    "nameAr": "جهاز نقاط البيع إيليت X1",
+    "price": 1200,
+    "description": "High-performance touchscreen POS terminal with sleek design and lightning-fast processing.",
+    "descriptionAr": "جهاز نقاط بيع بشاشة تعمل باللمس عالي الأداء مع تصميم أنيق ومعالجة سريعة البرق.",
+    "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?auto=format&fit=crop&q=80&w=800",
+    "images": [
+      "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?auto=format&fit=crop&q=80&w=800",
+      "https://images.unsplash.com/photo-1556742044-3c52d6e88c62?auto=format&fit=crop&q=80&w=800"
+    ],
+    "downloadLinks": [
+      { "label": "Windows Trial", "labelAr": "نسخة ويندوز تجريبية", "url": "#" },
+      { "label": "Android App", "labelAr": "تطبيق أندرويد", "url": "#" }
+    ],
+    "category": "Terminals",
+    "features": ["15.6 inch HD Display", "Intel Core i5", "8GB RAM", "SSD Storage"],
+    "featuresAr": ["شاشة HD مقاس 15.6 بوصة", "معالج Intel Core i5", "ذاكرة رام 8 جيجابايت", "تخزين SSD"]
+  },
+  {
+    "id": "2",
+    "name": "Thermal Receipt Printer P200",
+    "nameAr": "طابعة إيصالات حرارية P200",
+    "price": 250,
+    "description": "Fast and reliable thermal printer with auto-cutter and multiple connectivity options.",
+    "descriptionAr": "طابعة حرارية سريعة وموثوقة مع قاطع تلقائي وخيارات اتصال متعددة.",
+    "image": "https://images.unsplash.com/photo-1612815154858-60aa4c59eaa6?auto=format&fit=crop&q=80&w=800",
+    "category": "Printers",
+    "features": ["High Speed Printing", "Auto-cutter", "USB/Ethernet", "Low Noise"],
+    "featuresAr": ["طباعة عالية السرعة", "قاطع تلقائي", "USB/إيثرنت", "ضوضاء منخفضة"]
+  },
+  {
+    "id": "3",
+    "name": "Wireless Barcode Scanner S50",
+    "nameAr": "ماسح باركود لاسلكي S50",
+    "price": 150,
+    "description": "Ergonomic 2D barcode scanner with long-range wireless connectivity and durable build.",
+    "descriptionAr": "ماسح باركود ثنائي الأبعاد مريح مع اتصال لاسلكي بعيد المدى وبنية متينة.",
+    "image": "https://images.unsplash.com/photo-1601598851547-4302969d0614?auto=format&fit=crop&q=80&w=800",
+    "category": "Scanners",
+    "features": ["2D Scanning", "Wireless Bluetooth", "Long Battery Life", "Drop Resistant"],
+    "featuresAr": ["مسح ثنائي الأبعاد", "بلوتوث لاسلكي", "عمر بطارية طويل", "مقاوم للسقوط"]
+  }
+]
